@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\linq3\bin\Debug\linq3.exe.config
+C:\Users\ucenik\source\repos\linq3\bin\Debug\linq3.exe
+C:\Users\ucenik\source\repos\linq3\bin\Debug\linq3.pdb
+C:\Users\ucenik\source\repos\linq3\obj\Debug\linq3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\linq3\obj\Debug\linq3.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\linq3\obj\Debug\linq3.exe
+C:\Users\ucenik\source\repos\linq3\obj\Debug\linq3.pdb
